@@ -843,6 +843,14 @@ img
         align-self: flex-end;
     }
 
+    .contact-list {
+        display: flex;
+    justify-content: center;
+    gap: 30px;
+        
+
+    }
+
     .contact__inputs
     {
         display: grid;
